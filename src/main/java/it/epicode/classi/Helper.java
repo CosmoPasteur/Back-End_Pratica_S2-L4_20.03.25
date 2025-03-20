@@ -13,12 +13,7 @@ public class Helper {
     );
 
     public static List<Order> orders = List.of(
-            Order order = new Order(customers.get(0)),
-            Order order1 = new Order(customers.get(1)),
-            Order order2 = new Order(customers.get(2)),
-            Order order3 = new Order(customers.get(3)),
-            Order order4 = new Order(customers.get(4)),
-            Order order5 = new Order(customers.get(5))
+
     );
 
     public static List<Customer> customers = List.of(
